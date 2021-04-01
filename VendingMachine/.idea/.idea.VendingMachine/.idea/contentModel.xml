@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Bank.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Inventory.cs" t="Include" />
+      <e p="Menu.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="VendingMachine.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="VendingItem.cs" t="Include" />
+      <e p="VendingMachine.cs" t="Include" />
+      <e p="VendingMachine.csproj" t="IncludeRecursive" />
+      <e p="VendingMachine.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_VendingMachine.-115179937.00" t="ExcludeRecursive" />
+  </component>
+</project>
